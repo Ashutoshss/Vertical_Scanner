@@ -1,6 +1,6 @@
 ## This File contains Program file for my vertical 3D scanner
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github.com/user-attachments/assets/cb639441-2d65-4013-85cc-3286d5ffd709" alt="mega" width="150">
